@@ -12,5 +12,5 @@
 با زیباترین گرافیک🫠
 
 و اضافه شدن  امکانات👾",
-"url":"https://biaupload.com/do.php?imgf=org-fa62e7fe75981.jpg"}
+"url":"https://imgurl.ir/uploads/z16409_Screenshot_------_com.android.chrome.png"}
 ]
