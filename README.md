@@ -1,8 +1,8 @@
 [
   {
-    "update": "true",
+    "update": "false",
     "mode": "اجباری",
-    "name": "tackserver",
+    "name": "خالی",
     "text": "نسخه ی جدیدی موجود است!",
     "link": "https://myket.ir/app/com.my.newproject41",
 "text2":"ضمن 👾تبریک  عید نوروز🛤️🌹
@@ -12,5 +12,5 @@
 با زیباترین گرافیک🫠
 
 و اضافه شدن  امکانات👾",
-"url":"https://imgurl.ir/uploads/z16409_Screenshot_------_com.android.chrome.png"}
+"img":"https://imgurl.ir/uploads/z16409_Screenshot_------_com.android.chrome.png"}
 ]
